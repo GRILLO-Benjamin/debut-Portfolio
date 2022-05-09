@@ -1,0 +1,40 @@
+#bouton{
+  border: none;
+  padding: 8px;
+  color: rgb(1, 1, 10);
+  background-color: lightblue;
+}
+
+#bouton:hover{
+  background-color: rgb(6, 47, 61);
+  color: aliceblue;
+}
+.selecdate{
+margin-top: 80px;
+display: flex;
+align-items: center;
+}
+#text-select-date{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: large;
+}
+
+#dtpickerdemo{
+margin-left: 40px;
+}
+
+.Boxtitre
+{
+  margin-bottom: 20px;
+  width: auto;
+  border: 2px solid rgb(46, 6, 6);
+  border-radius: 1em;
+  background-color: rgb(250, 242, 242);
+}
+.row{
+  width: auto;
+  border-radius: 1em;
+  display: flex;
+  justify-content: center;
+}
